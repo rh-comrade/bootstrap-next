@@ -41,9 +41,9 @@ export default function Home() {
     </nav>
     <main className="container">
         <div className="row">
-        <div className="col-sm">col 1</div>
-        <div className="col-sm">col 2</div>
-        <div className="col-sm">col 3</div>
+        <div className="col-sm-4">col 1</div>
+        <div className="col-sm-4">col 2</div>
+        <div className="col-sm-4">col 3</div>
         </div>
       </main>
     </>
